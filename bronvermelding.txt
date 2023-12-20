@@ -4,7 +4,7 @@ Klas: 205
 Schooljaar: 2023-2024
 
 LINK NAAR LIVE WEBSITE
-https://nielsadp.github.io/wframed/contact.html
+https://nielsadp.github.io/wframed/index.html
 
 BRONVERMELDING
 1. https://www.youtube.com/watch?v=ii-FfE-7C-k
